@@ -1,0 +1,108 @@
+#tableFont{
+   color:#000;
+}
+
+#articulo1{
+padding-top: 20px;
+}
+
+#column1{
+background-color: #fff;
+}
+
+
+.imagen{
+    width: 100px;
+    height: 100px;
+}
+
+#numeros{
+background-color: #fff;
+border: 2px solid #000;
+border-radius: 5px;
+}
+
+
+#numeros h4{
+    color: #000;
+}
+#numeros h4, p{
+    color: #000;
+}
+
+#apuntalo{
+    background-color: #2267D9;
+    border: 2px solid #000;
+    border-radius: 5px;
+}
+#apuntalo h4{
+    color: #fff;
+}
+
+#barra{
+    background-color: #001734;
+    height: 50px;
+}
+#barratxt{
+    color: #000;
+    font-size: 20px;
+}
+
+#barratxt :hover{
+    background-color: #2267D9;
+}
+
+h2{
+    color: #2267D9;
+}
+#btnsend{
+    margin-top: 10px;
+    align-items: center;
+}
+
+#nombre{
+width: 300px;
+}
+#apellido{
+width: 600px;
+}
+#correo{
+    width:500px;
+}
+
+#preguntas{
+width: 500px;
+}
+
+footer{
+    background-color: #2268d998;
+    margin-top: 30px;
+}
+
+#white{
+    color: #fff;
+}
+#sectionservicios{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+#tituloserv{
+    margin-bottom: 50px;
+}
+
+.navegacion :hover{
+    background-color: #2267D9;
+}
+
+#jump{
+    background-color:#b8fafa99;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.imagen2{
+    width:80px;
+    height: 80px;
+    margin-top: 20px;
+}
+
